@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @digvijayrjadhav
+- 👋 Hi, I’m @Digvijay Jadhav
 - 👀 I’m interested in Python, Data Science, Machine Learning, Artificial Intelligence.
 - 🌱 I’m currently learning Data Science, Machine Learning, Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Python,Data Science, Machine Learning, Artificial Intelligence.
